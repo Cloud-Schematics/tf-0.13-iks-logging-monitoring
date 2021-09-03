@@ -1,3 +1,6 @@
+# TO BE ARCHIVED 
+Refer & migrate to https://github.com/Cloud-Schematics/iks-logging-and-monitoring
+
 # Container Logging and Monitoring Setup
 
 This module will automatically deploy Logging and Mornitoring agents onto your Kubernetes on VPC Cluster. In this example a LogDNA and Sysdig instance are created, but the [logging_and_monitoring](./logging_and_monitoring) module can be used on it's own if you already have an instance provisioned.
